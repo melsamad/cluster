@@ -9,10 +9,9 @@ Whenever I need to check if my homework is correct, I often grab my phone, snap 
 
 This project is intended to be a prototype for a project I plan to expand and develop. Here, I am attempting to get a working, useful lamp in a short amount of time with a couple of new items and some that I already have. Thus, I have 3D Modeled an idea for what the finished lamp should look like and I have made a simple schematic describing the wiring of all components. 
 
-3D Model
+
 <img width="869" height="773" alt="Screenshot 2026-06-16 at 2 25 22 AM" src="https://github.com/user-attachments/assets/4bd6b224-931f-4f30-b14e-12d8299b94b8" />
 
-Schematic diagram
 <img width="1156" height="824" alt="Screenshot 2026-06-16 at 2 23 47 AM" src="https://github.com/user-attachments/assets/ba6a3b17-594f-45db-a172-398830fcab59" />
 
 
