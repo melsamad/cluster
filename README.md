@@ -12,6 +12,8 @@ This project is intended to be a prototype for a project I plan to expand and de
 
 <img width="869" height="773" alt="Screenshot 2026-06-16 at 2 25 22 AM" src="https://github.com/user-attachments/assets/4bd6b224-931f-4f30-b14e-12d8299b94b8" />
 
+You can find the full 3D model here: https://cad.onshape.com/documents/8ec79e7975b6744942bbf4ec/w/496116313dd6149625ee8f80/e/039a2d50b10243778eb29437?renderMode=0&uiState=6a308a2112c1bea27ce2611d
+
 <img width="1156" height="824" alt="Screenshot 2026-06-16 at 2 23 47 AM" src="https://github.com/user-attachments/assets/ba6a3b17-594f-45db-a172-398830fcab59" />
 
 
