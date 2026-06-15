@@ -3,6 +3,8 @@ An e-commerce app for Lebanese innovators to look for electronic components
 
 ## Inspiration 
 
+Whenever I need to check if my homework is correct, I often grab my phone, snap a picture and put it in some LLM. So instead, I'm building an advanced smart lamp to be my tutor.
+
 ## BOM (Bill Of Materials)
 
 | Component | Designator | Quantity | Link | 
