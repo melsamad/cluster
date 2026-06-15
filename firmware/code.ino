@@ -28,6 +28,9 @@ int mosi = 23;
 int sck = 18; 
 int miso = 19;
 
+// audio amplifier
+int audio_input = 12;
+
 
 void setup() {
 
